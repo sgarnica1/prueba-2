@@ -1,0 +1,18 @@
+body{
+   background: rgb(0, 0, 0);
+   color: #fff;
+   font-family: "Montserrat";
+   font-size: 0.4cm;       
+}
+
+#contacto{
+    font-size: 0.5cm;
+    color: rgb(214, 214, 214);
+    font-family: "Montserrat";
+}
+
+
+#logo{
+    background: rgb(255, 255, 255);
+    color: #fff;
+}
